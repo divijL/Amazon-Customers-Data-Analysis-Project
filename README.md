@@ -1,5 +1,6 @@
 # Amazon-Customers-Data-Analysis-Project
 Following operations were carried out by me in this project:-
+
     1. Sentiment analysis on data
     2. EDA for the Positive sentences
     3. EDA for the negative sentences
